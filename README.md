@@ -1,4 +1,4 @@
-# 📱 Elite Mobile Development Projects 🚀  
+# 📱Mobile Development Projects 🚀  
 
 Bienvenido a mi repositorio profesional de desarrollo móvil.  
 Aquí encontrarás una colección de proyectos y guías avanzadas sobre el desarrollo de aplicaciones móviles, optimización de interfaces y buenas prácticas en arquitectura de software.  
